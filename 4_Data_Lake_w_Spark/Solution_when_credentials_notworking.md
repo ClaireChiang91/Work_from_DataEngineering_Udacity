@@ -3,4 +3,4 @@ One of problem I met is the credential doesn't work. The only information I rece
 Appreciate Vivian's help to figure out how to proceed.
 
 #The error msg
-<img src="https://github.com/ClaireChiang91/Data_Modeling_w_Postgres/blob/main/data_model.png" width="1000">
+<img src="https://github.com/ClaireChiang91/Work_from_DataEngineering_Udacity/blob/main/4_Data_Lake_w_Spark/1_error_msg_credential_notworking.png" width="1000">
