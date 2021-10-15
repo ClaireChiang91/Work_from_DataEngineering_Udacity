@@ -24,9 +24,9 @@ Then click "Add users" at the right side
 
 Then you will move to the next page to input the user name.
 Input "username"
-Click both: 
-  (1)Access key - Programmatic access
-  (2)Password - AWS management Console access
+Click both: <br/>
+  (1)Access key - Programmatic access<br/>
+  (2)Password - AWS management Console access<br/>
 <img src="https://github.com/ClaireChiang91/Work_from_DataEngineering_Udacity/blob/main/4_Data_Lake_w_Spark/6_Add_User_name.png" width="1000">
 
 Once you fill in all required fields, click "Next: Permissions"
